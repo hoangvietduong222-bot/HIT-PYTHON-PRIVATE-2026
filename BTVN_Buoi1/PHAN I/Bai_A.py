@@ -1,0 +1,6 @@
+check_state = "status"
+select_changes = "add"
+save_version = "commit"
+send_to_github = "push"
+copy_existing_repo = "clone"
+start_empty_repo = "init"
